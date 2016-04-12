@@ -1,0 +1,2 @@
+#define LINES_PER_PAGE 20
+#define DEBUG_CHAIN

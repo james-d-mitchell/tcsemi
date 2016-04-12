@@ -1,0 +1,2 @@
+void status();
+void abrt();
